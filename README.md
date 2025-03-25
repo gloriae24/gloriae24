@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gloriae24
 - 👀 I’m interested in data analysis, AI applications, business intelligence, and using data to drive strategic decisions.
-- 🌱 I’m currently learning advanced SQL, machine learning techniques, and geospatial data analysis.
+- 🌱 I’m currently learning advanced SQL, AI& machine learning techniques, as well as geospatial data analysis, with an emphasis on predictive modeling and automation 
 - 💞️ I’m looking to collaborate on data-driven projects, financial modeling, predictive analytics, and AI-driven business solutions.
 - 📫 How to reach me  How to reach me: [LinkedIn](https://www.linkedin.com/in/gloriaegesi)| Email:egesi.gloria1@gmail.com
 - 😄 Pronouns: ...
